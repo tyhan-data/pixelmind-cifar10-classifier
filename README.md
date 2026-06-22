@@ -192,7 +192,7 @@ This project is open-sourced under the [MIT License](LICENSE).
 
 <div align="center">
 
-Developed by **Your Name** · © 2026 PixelMind
+Developed by **M.A.T** · © 2026 PixelMind
 <br>
 Built with TensorFlow, Keras & Streamlit
 
